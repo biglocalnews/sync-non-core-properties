@@ -1,0 +1,7 @@
+bln
+ipykernel
+jupyter
+papermill
+pyquery
+requests
+tqdm
